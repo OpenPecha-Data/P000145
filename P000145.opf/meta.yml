@@ -1,8 +1,9 @@
-ebook_metadata:
+id: P000145
+initial_creation_type: ebook
+source_metadata:
   title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
   authors:
   - མཛད་པ་པོ། དྭགས་པོ་བཀྲ་ཤིས་རྣམ་རྒྱལ།
-  sku: RDI-SS-20
   layers:
   - book_title
   - author
@@ -10,6 +11,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: RDI-SS-20
 web_metadata:
   title:
     en: The Brilliant Jewel:A General Teaching on Tantra
